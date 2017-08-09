@@ -97,5 +97,18 @@ ENV/
 # mkdocs documentation
 /site
 
+#my_data
+data/*
+.vscode/*
+data/IMG/*
+.DS_Store
+.idea/*
+__data__/*
+__model_v1 (bad).h5__
+__model_v2 (good).h5__
+data_udacity.zip
+run_v2/*
+run_v3/*
+
 # mypy
 .mypy_cache/
